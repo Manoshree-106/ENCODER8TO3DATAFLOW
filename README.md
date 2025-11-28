@@ -10,11 +10,8 @@ Figure 01  Block Diagram of Encoder 8 * 3
 **Truth Table**
 ![image](https://github.com/naavaneetha/ENCODER8TO3DATAFLOW/assets/154305477/35496b14-ae6e-4cd1-9abd-d6736b576575)
 The logical expression of the term A0, A1, and A2 are as follows:
-
 A0 = D1 + D3 + D5 + D7
-
 A1 = D2 + D3 + D6 + D7
-
 A2 = D4 + D5 + D6 + D7
 Logical circuit of the above expressions is given below:
 ![image](https://github.com/naavaneetha/ENCODER8TO3DATAFLOW/assets/154305477/95acaee6-c873-4c75-89eb-ef09fb158053)
@@ -29,10 +26,8 @@ Developed by:Mano Shree RegisterNumber:25017532
 */
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
 <img width="1786" height="865" alt="Screenshot 2025-11-28 210727" src="https://github.com/user-attachments/assets/aba9bdf8-2dac-4e9a-b7e1-c61d82283fda" />
-
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
 <img width="1919" height="465" alt="Screenshot 2025-11-28 210857" src="https://github.com/user-attachments/assets/c559119e-2e79-4153-ae5a-a6b768baa400" />
-
 **RESULTS**
 thus,implemented encoded 8 to 3 in dataflow modelling using verilog and validated using their functionality table
 
